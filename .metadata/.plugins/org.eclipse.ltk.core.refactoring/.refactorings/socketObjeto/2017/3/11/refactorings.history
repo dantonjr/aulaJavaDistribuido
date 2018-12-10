@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;BDException.java&apos; to &apos;socketObjeto/src/edu.asselvi.model.bd&apos;&#x0D;&#x0A;- Original project: &apos;socketObjeto&apos;&#x0D;&#x0A;- Destination element: &apos;socketObjeto/src/edu.asselvi.model.bd&apos;&#x0D;&#x0A;- Original element: &apos;edu.asselvi.model.bd.conexao.BDException.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;edu.asselvi.model.bd" element1="/src&lt;edu.asselvi.model.bd.conexao{BDException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1489618400604" units="1" version="1.0"/>
+</session>

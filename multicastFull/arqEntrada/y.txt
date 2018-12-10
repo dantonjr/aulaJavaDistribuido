@@ -1,0 +1,5 @@
+oi
+esse é o arquivo
+que será enviado via multicast
+com meu protocolo
+:)
